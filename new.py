@@ -7,3 +7,5 @@ class MyName():
         self.my_name = name
         return "name memorized"
     
+myn = MyName()
+print(myn.("Serge"))
