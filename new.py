@@ -9,3 +9,4 @@ class MyName():
 #main code 
 myn = MyName()
 print(myn.("Serge"))
+#feature 1...
